@@ -15,5 +15,12 @@
         android:textSize="50sp"
         android:textColor="#f00"
         android:id="@+id/tv"/>
-
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="登录"
+        android:textSize="40sp"
+        android:textColor="#00f"
+        android:background="#ff0"
+        android:id="@+id/dl"/>
 </LinearLayout>
